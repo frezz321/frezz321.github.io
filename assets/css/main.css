@@ -714,7 +714,7 @@ input, select, textarea {
 			}
 
 		}
-
+		
 /* List */
 
 	ol {
@@ -1654,3 +1654,8 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
+/* other */
+	.halfWidth{
+		width: 50%;
+	}
